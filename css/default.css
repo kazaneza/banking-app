@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+    background-image: url("../img/bg_1.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+/* body-content */
+#body-content{
+    align-items: center;
+}
+
+/* card: sample text */
+
+#sample-text-card {
+    margin: 0px 120px;
+    font-family: comfortaa, sans-serif;
+    font-size: 65px;
+}
